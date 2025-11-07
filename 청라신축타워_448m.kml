@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>청라 신축 타워 448m (층별 면적 가변)</name><Folder><name>청라 신축 타워 (448m)</name><Placemark><name>청라 신축 타워 - 1층</name><description>층: 1
+면적: 10002.11㎡
+육각형 한 변: 62.05m
+높이: 0.0m ~ 13.2m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5334070,13.2 126.6347045,37.5331275,13.2 126.6347045,37.5325685,13.2 126.6340940,37.5322890,13.2 126.6334835,37.5325685,13.2 126.6334835,37.5331275,13.2 126.6340940,37.5334070,13.2
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 2층</name><description>층: 2
+면적: 10477.15㎡
+육각형 한 변: 63.50m
+높이: 13.2m ~ 26.4m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5334201,26.4 126.6347188,37.5331341,26.4 126.6347188,37.5325619,26.4 126.6340940,37.5322759,26.4 126.6334692,37.5325619,26.4 126.6334692,37.5331341,26.4 126.6340940,37.5334201,26.4
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 3층</name><description>층: 3
+면적: 3270.60㎡
+육각형 한 변: 35.48m
+높이: 26.4m ~ 39.5m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5331676,39.5 126.6344431,37.5330078,39.5 126.6344431,37.5326882,39.5 126.6340940,37.5325284,39.5 126.6337449,37.5326882,39.5 126.6337449,37.5330078,39.5 126.6340940,37.5331676,39.5
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 4층</name><description>층: 4
+면적: 586.70㎡
+육각형 한 변: 15.03m
+높이: 39.5m ~ 52.7m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5329834,52.7 126.6342418,37.5329157,52.7 126.6342418,37.5327803,52.7 126.6340940,37.5327126,52.7 126.6339462,37.5327803,52.7 126.6339462,37.5329157,52.7 126.6340940,37.5329834,52.7
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 5층</name><description>층: 5
+면적: 1340.24㎡
+육각형 한 변: 22.71m
+높이: 52.7m ~ 65.9m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5330526,65.9 126.6343175,37.5329503,65.9 126.6343175,37.5327457,65.9 126.6340940,37.5326434,65.9 126.6338705,37.5327457,65.9 126.6338705,37.5329503,65.9 126.6340940,37.5330526,65.9
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 6층</name><description>층: 6
+면적: 1302.11㎡
+육각형 한 변: 22.39m
+높이: 65.9m ~ 79.1m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5330497,79.1 126.6343143,37.5329488,79.1 126.6343143,37.5327472,79.1 126.6340940,37.5326463,79.1 126.6338737,37.5327472,79.1 126.6338737,37.5329488,79.1 126.6340940,37.5330497,79.1
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 7층</name><description>층: 7
+면적: 1443.11㎡
+육각형 한 변: 23.57m
+높이: 79.1m ~ 92.2m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5330603,92.2 126.6343259,37.5329542,92.2 126.6343259,37.5327418,92.2 126.6340940,37.5326357,92.2 126.6338621,37.5327418,92.2 126.6338621,37.5329542,92.2 126.6340940,37.5330603,92.2
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 8층</name><description>층: 8
+면적: 1479.28㎡
+육각형 한 변: 23.86m
+높이: 92.2m ~ 105.4m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5330630,105.4 126.6343288,37.5329555,105.4 126.6343288,37.5327405,105.4 126.6340940,37.5326330,105.4 126.6338592,37.5327405,105.4 126.6338592,37.5329555,105.4 126.6340940,37.5330630,105.4
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 9층</name><description>층: 9
+면적: 1468.00㎡
+육각형 한 변: 23.77m
+높이: 105.4m ~ 118.6m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5330621,118.6 126.6343279,37.5329551,118.6 126.6343279,37.5327409,118.6 126.6340940,37.5326339,118.6 126.6338601,37.5327409,118.6 126.6338601,37.5329551,118.6 126.6340940,37.5330621,118.6
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 10층</name><description>층: 10
+면적: 744.83㎡
+육각형 한 변: 16.93m
+높이: 118.6m ~ 131.8m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5330005,131.8 126.6342606,37.5329243,131.8 126.6342606,37.5327717,131.8 126.6340940,37.5326955,131.8 126.6339274,37.5327717,131.8 126.6339274,37.5329243,131.8 126.6340940,37.5330005,131.8
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 11층</name><description>층: 11
+면적: 1431.16㎡
+육각형 한 변: 23.47m
+높이: 131.8m ~ 144.9m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5330594,144.9 126.6343249,37.5329537,144.9 126.6343249,37.5327423,144.9 126.6340940,37.5326366,144.9 126.6338631,37.5327423,144.9 126.6338631,37.5329537,144.9 126.6340940,37.5330594,144.9
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 12층</name><description>층: 12
+면적: 1238.33㎡
+육각형 한 변: 21.83m
+높이: 144.9m ~ 158.1m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5330447,158.1 126.6343088,37.5329463,158.1 126.6343088,37.5327497,158.1 126.6340940,37.5326513,158.1 126.6338792,37.5327497,158.1 126.6338792,37.5329463,158.1 126.6340940,37.5330447,158.1
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 13층</name><description>층: 13
+면적: 430.27㎡
+육각형 한 변: 12.87m
+높이: 158.1m ~ 171.3m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5329639,171.3 126.6342206,37.5329060,171.3 126.6342206,37.5327900,171.3 126.6340940,37.5327321,171.3 126.6339674,37.5327900,171.3 126.6339674,37.5329060,171.3 126.6340940,37.5329639,171.3
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 14층</name><description>층: 14
+면적: 507.59㎡
+육각형 한 변: 13.98m
+높이: 171.3m ~ 184.5m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5329739,184.5 126.6342315,37.5329110,184.5 126.6342315,37.5327850,184.5 126.6340940,37.5327221,184.5 126.6339565,37.5327850,184.5 126.6339565,37.5329110,184.5 126.6340940,37.5329739,184.5
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 15층</name><description>층: 15
+면적: 507.59㎡
+육각형 한 변: 13.98m
+높이: 184.5m ~ 197.6m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5329739,197.6 126.6342315,37.5329110,197.6 126.6342315,37.5327850,197.6 126.6340940,37.5327221,197.6 126.6339565,37.5327850,197.6 126.6339565,37.5329110,197.6 126.6340940,37.5329739,197.6
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 16층</name><description>층: 16
+면적: 820.76㎡
+육각형 한 변: 17.77m
+높이: 197.6m ~ 210.8m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5330081,210.8 126.6342689,37.5329281,210.8 126.6342689,37.5327679,210.8 126.6340940,37.5326879,210.8 126.6339191,37.5327679,210.8 126.6339191,37.5329281,210.8 126.6340940,37.5330081,210.8
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 17층</name><description>층: 17
+면적: 889.71㎡
+육각형 한 변: 18.51m
+높이: 210.8m ~ 224.0m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5330147,224.0 126.6342761,37.5329314,224.0 126.6342761,37.5327646,224.0 126.6340940,37.5326813,224.0 126.6339119,37.5327646,224.0 126.6339119,37.5329314,224.0 126.6340940,37.5330147,224.0
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 18층</name><description>층: 18
+면적: 994.48㎡
+육각형 한 변: 19.56m
+높이: 224.0m ~ 237.2m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5330243,237.2 126.6342865,37.5329361,237.2 126.6342865,37.5327599,237.2 126.6340940,37.5326717,237.2 126.6339015,37.5327599,237.2 126.6339015,37.5329361,237.2 126.6340940,37.5330243,237.2
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 19층</name><description>층: 19
+면적: 1031.27㎡
+육각형 한 변: 19.92m
+높이: 237.2m ~ 250.4m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5330275,250.4 126.6342900,37.5329377,250.4 126.6342900,37.5327583,250.4 126.6340940,37.5326685,250.4 126.6338980,37.5327583,250.4 126.6338980,37.5329377,250.4 126.6340940,37.5330275,250.4
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 20층</name><description>층: 20
+면적: 1039.26㎡
+육각형 한 변: 20.00m
+높이: 250.4m ~ 263.5m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5330282,263.5 126.6342908,37.5329381,263.5 126.6342908,37.5327579,263.5 126.6340940,37.5326678,263.5 126.6338972,37.5327579,263.5 126.6338972,37.5329381,263.5 126.6340940,37.5330282,263.5
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 21층</name><description>층: 21
+면적: 531.74㎡
+육각형 한 변: 14.31m
+높이: 263.5m ~ 276.7m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5329769,276.7 126.6342348,37.5329124,276.7 126.6342348,37.5327836,276.7 126.6340940,37.5327191,276.7 126.6339532,37.5327836,276.7 126.6339532,37.5329124,276.7 126.6340940,37.5329769,276.7
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 22층</name><description>층: 22
+면적: 1155.23㎡
+육각형 한 변: 21.09m
+높이: 276.7m ~ 289.9m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5330380,289.9 126.6343015,37.5329430,289.9 126.6343015,37.5327530,289.9 126.6340940,37.5326580,289.9 126.6338865,37.5327530,289.9 126.6338865,37.5329430,289.9 126.6340940,37.5330380,289.9
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 23층</name><description>층: 23
+면적: 626.95㎡
+육각형 한 변: 15.53m
+높이: 289.9m ~ 303.1m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5329879,303.1 126.6342468,37.5329180,303.1 126.6342468,37.5327780,303.1 126.6340940,37.5327081,303.1 126.6339412,37.5327780,303.1 126.6339412,37.5329180,303.1 126.6340940,37.5329879,303.1
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 24층</name><description>층: 24
+면적: 613.71㎡
+육각형 한 변: 15.37m
+높이: 303.1m ~ 316.2m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5329865,316.2 126.6342452,37.5329172,316.2 126.6342452,37.5327788,316.2 126.6340940,37.5327095,316.2 126.6339428,37.5327788,316.2 126.6339428,37.5329172,316.2 126.6340940,37.5329865,316.2
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 25층</name><description>층: 25
+면적: 542.13㎡
+육각형 한 변: 14.45m
+높이: 316.2m ~ 329.4m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5329781,329.4 126.6342361,37.5329131,329.4 126.6342361,37.5327829,329.4 126.6340940,37.5327179,329.4 126.6339519,37.5327829,329.4 126.6339519,37.5329131,329.4 126.6340940,37.5329781,329.4
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 26층</name><description>층: 26
+면적: 869.41㎡
+육각형 한 변: 18.29m
+높이: 329.4m ~ 342.6m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5330128,342.6 126.6342740,37.5329304,342.6 126.6342740,37.5327656,342.6 126.6340940,37.5326832,342.6 126.6339140,37.5327656,342.6 126.6339140,37.5329304,342.6 126.6340940,37.5330128,342.6
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 27층</name><description>층: 27
+면적: 1158.19㎡
+육각형 한 변: 21.11m
+높이: 342.6m ~ 355.8m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5330382,355.8 126.6343017,37.5329431,355.8 126.6343017,37.5327529,355.8 126.6340940,37.5326578,355.8 126.6338863,37.5327529,355.8 126.6338863,37.5329431,355.8 126.6340940,37.5330382,355.8
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 28층</name><description>층: 28
+면적: 970.86㎡
+육각형 한 변: 19.33m
+높이: 355.8m ~ 368.9m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5330222,368.9 126.6342842,37.5329351,368.9 126.6342842,37.5327609,368.9 126.6340940,37.5326738,368.9 126.6339038,37.5327609,368.9 126.6339038,37.5329351,368.9 126.6340940,37.5330222,368.9
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 29층</name><description>층: 29
+면적: 880.30㎡
+육각형 한 변: 18.41m
+높이: 368.9m ~ 382.1m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5330138,382.1 126.6342751,37.5329309,382.1 126.6342751,37.5327651,382.1 126.6340940,37.5326822,382.1 126.6339129,37.5327651,382.1 126.6339129,37.5329309,382.1 126.6340940,37.5330138,382.1
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 30층</name><description>층: 30
+면적: 761.65㎡
+육각형 한 변: 17.12m
+높이: 382.1m ~ 395.3m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5330023,395.3 126.6342625,37.5329251,395.3 126.6342625,37.5327709,395.3 126.6340940,37.5326937,395.3 126.6339255,37.5327709,395.3 126.6339255,37.5329251,395.3 126.6340940,37.5330023,395.3
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 옥탑1층</name><description>층: 옥탑1
+면적: 378.91㎡
+육각형 한 변: 12.08m
+높이: 395.3m ~ 408.5m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5329568,408.5 126.6342128,37.5329024,408.5 126.6342128,37.5327936,408.5 126.6340940,37.5327392,408.5 126.6339752,37.5327936,408.5 126.6339752,37.5329024,408.5 126.6340940,37.5329568,408.5
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 옥탑2층</name><description>층: 옥탑2
+면적: 327.42㎡
+육각형 한 변: 11.23m
+높이: 408.5m ~ 421.6m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5329491,421.6 126.6342044,37.5328986,421.6 126.6342044,37.5327974,421.6 126.6340940,37.5327469,421.6 126.6339836,37.5327974,421.6 126.6339836,37.5328986,421.6 126.6340940,37.5329491,421.6
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 옥탑3층</name><description>층: 옥탑3
+면적: 333.03㎡
+육각형 한 변: 11.32m
+높이: 421.6m ~ 434.8m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5329500,434.8 126.6342054,37.5328990,434.8 126.6342054,37.5327970,434.8 126.6340940,37.5327460,434.8 126.6339826,37.5327970,434.8 126.6339826,37.5328990,434.8 126.6340940,37.5329500,434.8
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name>청라 신축 타워 - 옥탑지붕층</name><description>층: 옥탑지붕
+면적: 216.03㎡
+육각형 한 변: 9.12m
+높이: 434.8m ~ 448.0m</description><Style><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>ff00d7ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><outerBoundaryIs><LinearRing><coordinates>
+126.6340940,37.5329302,448.0 126.6341837,37.5328891,448.0 126.6341837,37.5328069,448.0 126.6340940,37.5327658,448.0 126.6340043,37.5328069,448.0 126.6340043,37.5328891,448.0 126.6340940,37.5329302,448.0
+</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark></Folder></Document></kml>
